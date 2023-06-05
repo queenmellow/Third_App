@@ -7,7 +7,6 @@ import 'package:routemaster/routemaster.dart';
 import './core/common/error_text.dart';
 import './core/common/loader.dart';
 import './features/auth/controller/auth_controller.dart';
-//import 'package:reddit_tutorial/firebase_options.dart';
 import './models/user_model.dart';
 import './router.dart';
 import './theme/pallete.dart';
